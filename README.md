@@ -1,5 +1,3 @@
 # Simple ChatBot
-## Compile
-## javac SimpleBot.java
-## Run
-## java SimpleBot
+## To Compile javac SimpleBot.java
+## To Run java SimpleBot
